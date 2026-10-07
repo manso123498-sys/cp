@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICeC8Y5Ucyk=",
+  "dgSpecHash": "Jj74SSoUVJs=",
   "success": true,
-  "projectFilePath": "E:\\C#\\pract 5\\SecuirityDemo\\SecuirityDemo\\SecuirityDemo.csproj",
+  "projectFilePath": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 5\\SecuirityDemo\\SecuirityDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mitup\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\mitup\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\pract 5\\SecuirityDemo\\SecuirityDemo\\SecuirityDemo.csproj": {}
+    "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 5\\SecuirityDemo\\SecuirityDemo.csproj": {}
   },
   "projects": {
-    "E:\\C#\\pract 5\\SecuirityDemo\\SecuirityDemo\\SecuirityDemo.csproj": {
+    "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 5\\SecuirityDemo\\SecuirityDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\pract 5\\SecuirityDemo\\SecuirityDemo\\SecuirityDemo.csproj",
+        "projectUniqueName": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 5\\SecuirityDemo\\SecuirityDemo.csproj",
         "projectName": "SecuirityDemo",
-        "projectPath": "E:\\C#\\pract 5\\SecuirityDemo\\SecuirityDemo\\SecuirityDemo.csproj",
+        "projectPath": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 5\\SecuirityDemo\\SecuirityDemo.csproj",
         "packagesPath": "C:\\Users\\mitup\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\pract 5\\SecuirityDemo\\SecuirityDemo\\obj\\",
+        "outputPath": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 5\\SecuirityDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

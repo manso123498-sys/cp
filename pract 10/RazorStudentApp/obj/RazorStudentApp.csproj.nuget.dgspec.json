@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\pract 10\\RazorStudentApp\\RazorStudentApp\\RazorStudentApp.csproj": {}
+    "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 10\\RazorStudentApp\\RazorStudentApp.csproj": {}
   },
   "projects": {
-    "E:\\C#\\pract 10\\RazorStudentApp\\RazorStudentApp\\RazorStudentApp.csproj": {
+    "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 10\\RazorStudentApp\\RazorStudentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\pract 10\\RazorStudentApp\\RazorStudentApp\\RazorStudentApp.csproj",
+        "projectUniqueName": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 10\\RazorStudentApp\\RazorStudentApp.csproj",
         "projectName": "RazorStudentApp",
-        "projectPath": "E:\\C#\\pract 10\\RazorStudentApp\\RazorStudentApp\\RazorStudentApp.csproj",
+        "projectPath": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 10\\RazorStudentApp\\RazorStudentApp.csproj",
         "packagesPath": "C:\\Users\\mitup\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\pract 10\\RazorStudentApp\\RazorStudentApp\\obj\\",
+        "outputPath": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 10\\RazorStudentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
